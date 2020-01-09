@@ -1,0 +1,1 @@
+stepping_motor_driver\startup_stm32f407xx.o: startup_stm32f407xx.s
